@@ -57,9 +57,8 @@ I'm a passionate full-stack developer with a strong focus on backend development
 ---
 
 📫 **Get in Touch**  
-- Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-- Visit my [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
-- Reach me via email at [your-email@example.com](mailto:your-email@example.com)
+- Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cristian-plazas-a98321190/])
+- Reach me via email at [your-email@example.com](mailto:cplazasmendivelso@gmail.com)
 
 ---
 
