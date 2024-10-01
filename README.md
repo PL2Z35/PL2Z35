@@ -1,79 +1,84 @@
-# 👋 Hello! I'm Cristian Plazas
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CristianPlazas.CristianPlazas" />
 
-![Animated Banner](https://raw.githubusercontent.com/your-username/your-username/main/assets/banner.gif)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Cristian+Plazas!;" />
+</h1>
 
-### Full-Stack Developer | Backend Enthusiast | Node.js & Java Specialist
+<h3 align="center">Full-Stack Developer | Backend Enthusiast | Node.js & Java Specialist</h3>
 
----
+<br/>
 
-🌐 **About Me**  
-I'm a passionate full-stack developer with a strong focus on backend development, primarily working with **Node.js** and **Java**. I love creating efficient, scalable systems that power complex applications, ensuring seamless performance and robust architecture.
+<div align="center">
+ 
+ 🔭 I’m currently working on **[Hitch App](https://www.hitchme.app/)**
+ 
+ 🌱 I’m currently learning **Cloud-Native Applications, Distributed Systems, DevOps Practices**
 
----
+ 💬 Ask me about **Node.js, Java, Spring Boot, or anything [here](https://github.com/CristianPlazas/CristianPlazas/issues)**
 
-🛠 **Tech Stack**  
+ ⚡ Fun fact **I love creating efficient, scalable systems that power complex applications**
 
-**Backend**:  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+</div>
 
-**Databases**:  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Firebase Realtime Database](https://img.shields.io/badge/-Firebase%20Realtime%20DB-FFCA28?style=flat&logo=firebase&logoColor=black)
+<div align="center"> 
+  <a href="mailto:cplazasmendivelso@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/cristian-plazas-a98321190" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Uncomment if you have a portfolio website -->
+  <!--
+  <a href="https://your-portfolio-link.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+  -->
+</div>
 
-**Frontend**:  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+<hr/>
 
-**Other Tools**:  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,firebase,postgres,mongodb,mysql,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,docker,kubernetes,aws,gcp" /><br>
+</div>
 
----
+<br/>
+<hr/>
 
-🚀 **What I Do**  
-- Develop scalable and maintainable backend architectures.
-- Design APIs that are efficient, reliable, and easy to consume.
-- Work with microservices and containerized applications.
-- Leverage cloud infrastructure (AWS, GCP, Firebase) for deployment and scaling.
-- Implement serverless functions and real-time databases with Firebase.
-- Specialize in database design, optimization, and management.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CristianPlazas/CristianPlazas/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
----
-💻 **Latest Projects**
+<hr/>
 
-<!--START_SECTION:activity-->
-1. 🚀 [Hitch App](https://www.hitchme.app/) - Brief description.
-<!--END_SECTION:activity-->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianPlazas&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=CristianPlazas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianPlazas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
 
----
+<br/><br/>
 
-📫 **Get in Touch**  
-- Connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cristian-plazas-a98321190/])
-- Reach me via email at [your-email@example.com](mailto:cplazasmendivelso@gmail.com)
+<hr/>
 
----
+<br/>
 
-👨‍💻 **Current Focus**  
-I'm currently diving into **cloud-native** applications, enhancing my expertise in **distributed systems**, and expanding my knowledge in **DevOps practices**.
+<!-- Uncomment if you have a Ko-fi or similar support link -->
+<!--
+<div align="center">
+  <a href='https://ko-fi.com/your-kofi-link' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</div>
+-->
 
----
-
-💬 **Let's Collaborate**  
-I'm always open to new opportunities and collaborations! Feel free to reach out if you think we could create something amazing together.
-
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/footer.gif" alt="Footer Animation">
-</p>
+<br/>
