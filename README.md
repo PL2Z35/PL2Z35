@@ -17,7 +17,7 @@
 <p align="center">
   🔭 Currently working on <a href="https://www.hitchme.app/"><strong>Hitch App</strong></a><br/>
   🌱 Learning about <strong>Cloud-Native Applications, Distributed Systems, DevOps Practices</strong><br/>
-  💬 Ask me about <strong>Node.js, Java, Spring Boot</strong> or anything <a href="https://github.com/CristianPlazas/CristianPlazas/issues">here</a><br/>
+  💬 Ask me about <strong>Node.js, Java, Spring Boot</strong><br/>
   ⚡ Fun fact: <strong>I love creating efficient, scalable systems that power complex applications</strong>
 </p>
 
