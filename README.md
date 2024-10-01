@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Cloud-Native Applications, Distributed Systems, DevOps Practices**
 
- 💬 Ask me about **Node.js, Java, Spring Boot, or anything [here](https://github.com/CristianPlazas/CristianPlazas/issues)**
+ 💬 Ask me about **Node.js, Java, Spring Boot,
 
  ⚡ Fun fact **I love creating efficient, scalable systems that power complex applications**
 
