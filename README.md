@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[Hitch App](https://www.hitchme.app/)**
- 
  🌱 I’m currently learning **Cloud-Native Applications, Distributed Systems, DevOps Practices**
 
  💬 Ask me about **Node.js, Java, Spring Boot,
