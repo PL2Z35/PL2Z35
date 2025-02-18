@@ -53,10 +53,10 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <p align="center">
   <!-- First Row -->
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,firebase,postgres,mongodb,mysql,redis" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,firebase,postgres,mongodb,mysql" alt="Tech Stack"/>
   <br/>
   <!-- Second Row -->
-  <img src="https://skillicons.dev/icons?i=javascript,react,docker,kubernetes,aws,gcp" alt="DevOps Tools"/>
+  <img src="https://skillicons.dev/icons?i=javascript,react,docker,aws,nextjs,flutter" alt="DevOps Tools"/>
 </p>
 
 <hr/>
