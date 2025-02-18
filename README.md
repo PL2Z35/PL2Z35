@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,firebase,postgres,mongodb,mysql" alt="Tech Stack"/>
   <br/>
   <!-- Second Row -->
-  <img src="https://skillicons.dev/icons?i=javascript,react,docker,aws,nextjs,flutter" alt="DevOps Tools"/>
+  <img src="https://skillicons.dev/icons?i=javascript,react,docker,aws,nextjs,flutter,linux," alt="DevOps Tools"/>
 </p>
 
 <hr/>
