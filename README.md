@@ -84,28 +84,8 @@
 
 <hr/>
 
-<!-- Featured Projects Section (Optional) -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">"Talk is cheap. Show me the code."</h2>
 <p align="center">
-  <a href="https://github.com/your-username/project-1" target="_blank">Project 1</a> •
-  <a href="https://github.com/your-username/project-2" target="_blank">Project 2</a> •
-  <a href="https://github.com/your-username/project-3" target="_blank">Project 3</a>
+  <em>— Linus Torvalds</em>
 </p>
 
-<hr/>
-
-<!-- Contribute Section (Optional) -->
-<h2 align="center">🤝 Contribute</h2>
-<p align="center">
-  I'm always open to collaborating on open-source projects!<br/>
-  If you have any exciting ideas or want to work together, feel free to <a href="mailto:cplazasmendivelso@gmail.com" target="_blank">reach out</a>.
-</p>
-
-<hr/>
-
-<!-- Final Thanks -->
-<h2 align="center">✨ Thanks for visiting my profile! ✨</h2>
-<p align="center">
-  <em>If you find any of my repositories helpful, consider giving them a star!<br/>
-  Happy coding and see you next time!</em>
-</p>
