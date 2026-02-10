@@ -61,29 +61,6 @@
 
 <hr/>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img
-       width="390"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=PL2Z35&count_private=true&theme=react&border_radius=10"
-       alt="Streak Stats"
-  />
-  <img
-       width="390"
-       src="https://github-readme-stats.vercel.app/api?username=PL2Z35&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-       alt="GitHub Stats"
-  />
-  <br/><br/>
-  <img
-       width="325"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PL2Z35&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"
-       alt="Top Languages"
-  />
-</div>
-
-<hr/>
-
 <h2 align="center">"Talk is cheap. Show me the code."</h2>
 <p align="center">
   <em>— Linus Torvalds</em>
