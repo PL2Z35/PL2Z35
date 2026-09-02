@@ -54,3 +54,15 @@
 <p align="center">
   <!-- First Row -->
   <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,firebase,postgres,mongodb,mysql" alt="Tech Stack"/>
+  <br/>
+  <!-- Second Row -->
+  <img src="https://skillicons.dev/icons?i=javascript,react,docker,aws,nextjs,flutter,linux," alt="DevOps Tools"/>
+</p>
+
+<hr/>
+
+<h2 align="center">"Talk is cheap. Show me the code."</h2>
+<p align="center">
+  <em>— Linus Torvalds</em>
+</p>
+
